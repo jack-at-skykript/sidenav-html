@@ -4,5 +4,5 @@ function open() {
 }
 function close() {
   document.getElementById('sideNavigation').style.width = 0;
-  document.getElementById('body').style.marginLeft = 'none';
+  document.getElementById('body').style.marginLeft = 0;
 }
